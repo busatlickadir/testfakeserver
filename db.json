@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "name": "Post 1dced" },
-    { "id": 2, "name": "Post 2fedfcf" },
-    { "id": 3, "name": "Post 3efef" }
+    { "id": 1, "name": "Post 1dced", "description": "Post 1dcdescriptioned" },
+    { "id": 2, "name": "Post 2fedfcf" , "description": "Post 1dcdescriptioned" },
+    { "id": 3, "name": "Post 3efef" , "description": "Post description" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
