@@ -9,9 +9,9 @@
    { "id": 1, "name": "some name", "tag": "tag 1", "type": "type 1" },
     { "id": 2, "name": "some name 3", "tag": "tag 3", "type": "type 3" }
   ],
-  "profile": {
-    "name": "typicode"
-  },
+  "profile": [
+   { "id": 1, "name": "some name", "unitId": "1", "categoryId": "1","inactive":"false" }
+  ],
   "test": {
     "name": "test"
   }
